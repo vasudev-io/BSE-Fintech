@@ -1,4 +1,4 @@
-# Bristol Stock Exchange Trading Strategies Comparison Project
+# Bristol Stock Exchange Trading Strategies Comparison
 
 This project involves a comprehensive comparison of different trading strategies described in the Bristol Stock Exchange (BSE) created by Dave Cliff. The focus is on analyzing how these strategies perform under various conditions and configurations. 
 These trading strategies are described succinctly on the [BSE Wiki page](https://github.com/davecliff/BristolStockExchange/wiki).
