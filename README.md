@@ -21,4 +21,4 @@ These trading strategies are described succinctly on the [BSE Wiki page](https:/
   - These functions are used for comparing trading strategies by conducting various statistical tests.
 
 ## License
-- The code is open-sourced under the MIT License. The full text of the license can be found in the LICENSE file in the [original code repository](https://github.com/davecliff/BristolStockExchange).
+- The BSE code is open-sourced under the MIT License. The full text of the license can be found in the LICENSE file in the [original code repository](https://github.com/davecliff/BristolStockExchange).
